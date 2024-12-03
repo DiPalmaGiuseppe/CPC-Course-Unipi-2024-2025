@@ -1,0 +1,10 @@
+Update 6 7 10
+my result 10, right result 10, true
+my result 8, right result 8, true
+my result 10, right result 10, true
+my result 10, right result 10, true
+my result 4, right result 4, true
+Update 3 10 4
+my result 4, right result 4, true
+my result 9, right result 9, true
+my result 4, right result 4, true
